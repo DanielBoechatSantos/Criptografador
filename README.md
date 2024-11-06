@@ -7,6 +7,7 @@ Frequentemente, desenvolvo códigos em Python que utilizam senhas para testes, c
 Para descriptografar o arquivo, é necessário inserir a senha de criptografia, que é solicitada no momento da decriptação. Além disso, ampliei a funcionalidade do código para permitir a criptografia de qualquer tipo de arquivo, não apenas arquivos .py, abrangendo também outras extensões. Como o Windows não oferece a possibilidade de proteger pastas com senha, essa aplicação contribui para garantir a segurança dos arquivos de maneira prática e eficiente.
 
 Funcionamento da aplicação:
+
 ![image](https://github.com/user-attachments/assets/bbefbe0e-db9f-4db4-b8a1-e9f9200867bd)
 
 
